@@ -6,8 +6,8 @@
 
 using namespace std;
 
-#define MAX 100;
-#define INF INT_MAX;
+#define MAX 100
+#define INF INT_MAX
 
 int A[MAX][MAX];
 int n;
